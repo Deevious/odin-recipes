@@ -1,2 +1,1 @@
-# odin-recipes
-Create Boilerplate along with body and other inputs
+Create boilerplate along with body and other inputs
