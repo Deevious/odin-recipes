@@ -1,2 +1,2 @@
 # odin-recipes
-My first project
+Create Boilerplate along with body and other inputs
